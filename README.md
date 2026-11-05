@@ -31,6 +31,10 @@ Try the mobile prototype:
 
 The mobile builds are distributed separately from this core-code repository. The Apache-2.0 license here covers only the files in this repository; it does not grant rights to the app recordings or other assets.
 
+## Contact
+
+Created by Siyi Xia · [Instagram · @siyi_xia](https://www.instagram.com/siyi_xia/).
+
 ## License
 
 Copyright 2026 Siyi Xia.

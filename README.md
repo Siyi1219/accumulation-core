@@ -24,7 +24,12 @@ Implementation was written by the project author with AI assistance, as declared
 
 ## Experience the work
 
-A public test link or APK download has not yet been supplied for this repository. The complete app is distributed separately; this excerpt cannot reproduce the full experience.
+Try the mobile prototype:
+
+- **iOS:** [Join the TestFlight beta](https://testflight.apple.com/join/4NZw1UPb).
+- **Android:** [Download the APK from Google Drive](https://drive.google.com/file/d/1Dav3vamu5X2OLE72KiKN_pz9kDp2KJCR/view?usp=sharing).
+
+The mobile builds are distributed separately from this core-code repository. The Apache-2.0 license here covers only the files in this repository; it does not grant rights to the app recordings or other assets.
 
 ## License
 
